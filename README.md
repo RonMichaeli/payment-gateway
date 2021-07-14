@@ -1,6 +1,6 @@
 # First Usage
 * Clone repo
-* `cd riskified-interview`
+* `cd payment-gateway`
 * `npm install`
 
 # Running Server
